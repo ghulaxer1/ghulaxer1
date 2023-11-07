@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python,Machine learning and Deep learning.
 - 💞️ Ask me about Data science,data analyst,python,artificial intelligence,Machine learning....
 - I'm currently mastering in python,mysql,visualization tools like Power bi,Tableau,R-programming,Aure ,SAS etc
-- 📫 You can reach me on my mail id-ghulaxer1998@gmail.com
+- 📫 You can reach me on my mail  -ghulaxer1998@gmail.com
   
 
 <!---
